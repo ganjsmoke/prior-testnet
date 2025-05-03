@@ -260,7 +260,7 @@ async function processWallet(privateKey) {
 }
 function printHeader() {
   const line = "=".repeat(50);
-  const title = "Auto Daily Monad";
+  const title = "Auto Daily Prior";
   const createdBy = "Bot created by: https://t.me/airdropwithmeh";
 
   const totalWidth = 50;
