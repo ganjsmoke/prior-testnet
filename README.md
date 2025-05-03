@@ -13,7 +13,7 @@ This repository provides a script to automatically handle token swaps and earn d
 ### Step 1: Clone the Repository
 
 ```bash
-git clone github.com/ganjsmoke/prior-testnet
+git clone https://github.com/ganjsmoke/prior-testnet.git
 cd prior-testnet
 ```
 
